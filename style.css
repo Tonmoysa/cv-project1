@@ -81,13 +81,13 @@ table{
   }
   
   td, th {
-      border: 1px solid #dddddd;
+      border: 1px solid #242323;
       text-align: center;
       padding: 8px;
     }
     
     tr:nth-child(even) {
-      background-color: #62818b;
+      background-color: #525758;
     }
 
     
